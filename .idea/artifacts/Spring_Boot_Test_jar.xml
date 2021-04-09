@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spring-Boot-Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spring_Boot_Test_jar</output-path>
+    <root id="archive" name="Spring-Boot-Test.jar" />
+  </artifact>
+</component>
